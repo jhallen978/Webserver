@@ -1,9 +1,9 @@
 # Webserver
 Simple webserver implementation
 
-Source files in src
-Config files in conf
-Log files in logs
+1. Source files in src
+2. Config files in conf
+3. Log files in logs
 
 # TODO:
 1. Need to edit paths in conf/config.xml
