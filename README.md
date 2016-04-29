@@ -6,5 +6,5 @@ Config files in conf
 Log files in logs
 
 # TODO:
-Need to edit paths in conf/config.xml
-config.xml location is hardcoded in Webserver
+1. Need to edit paths in conf/config.xml
+2. config.xml location is hardcoded in Webserver
