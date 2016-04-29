@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+
+<!-- WEB SERVER META DATA -->
+<webserver
+    title="Another Excellent Webserver"
+    date="March 2016"
+    author="Jonathan Allen"
+>
+
+<!-- DEFAULT DOCUMENTS -->
+<context defaultDocument="/Users/jhallen/networks/hw4/index.html"></context> 
+
+<!-- DOCUMENT ROOT -->
+<context documentRoot="/Users/jhallen/networks/hw4/"></context>
+
+<!-- LOG FILE -->
+<logfile log="../logs/log.txt"></logfile> 
+
+</webserver>

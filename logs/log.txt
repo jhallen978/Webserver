@@ -1,0 +1,4 @@
+localhost [Sun, 10 Apr 2016 05:01:05 GMT] "GET /hello.html HTTP/1.1" 404 170
+localhost [Mon, 11 Apr 2016 23:17:48 GMT] "GET /index.html HTTP/1.1" 200 114
+localhost [Mon, 11 Apr 2016 23:17:48 GMT] "GET /favicon.ico HTTP/1.1" 404 170
+localhost [Mon, 11 Apr 2016 23:18:06 GMT] "GET /index HTTP/1.1" 404 170
